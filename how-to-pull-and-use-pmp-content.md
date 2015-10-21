@@ -17,11 +17,11 @@ You'll see a green box with a link to the story. Click the story link and it ope
 
 You can search for PMP stories, and find the GUID for each story you find, on the PMP support site here: 
 
-(https://support.pmp.io/)
+https://support.pmp.io/
 
 Click on Advanced Search to narrow your search, or simply use this url which does the same thing:
 
-(https://support.pmp.io/?advanced=1&profile=story&has=image)
+https://support.pmp.io/?advanced=1&profile=story&has=image
 
 ###There are also several ways to search the PMP for stories from inside Core Publisher:
 
@@ -43,21 +43,24 @@ Click on Advanced Search to narrow your search, or simply use this url which doe
 * Note also that different producers use Tags in different ways, so a search for stories by Tags may produce inconsistent or incomplete results. 
 
 
-
-
 Your search may turn up no stories or too many stories. You can adjust your search and hit the Search button again as needed. 
 
-Ways to fine-tune a PMP search
+####Ways to super-fine-tune a PMP search
+
+In the Search Term box you can use these prefixes to further narrow the search:
 
 title:”search term”
 teaser:”search term”
 tags:”search term”
 content:”search term” (seems to return fewer results that just ”search term”)
 byline:”name”
-To create a section page that displays one or more stories pulled from the PMP
+
+##Creating a section page that displays one or more stories pulled from the PMP
+
 There are at least three ways to create a landing page for a project or subject area, where you can pull in stories for the project or subject. The first two methods are very similar:
 
 Create either a Category or Tag for the subject or focus of the page. Examples could include:
+
 Election
 Environment
 Health Care
