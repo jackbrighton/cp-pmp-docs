@@ -4,10 +4,10 @@ There are two ways to pull PMP stories into your CP site. We'll cover those firs
 
 ##If you know the GUID of a specific PMP story you want:
 
-1 Click on Find Content in the top navigation. 
-2 Click the “Pull PMP Doc” tab. 
-3 Paste the PMP story GUID into the Search term box.
-4 Click the Get document button. 
+1. Click on Find Content in the top navigation. 
+2. Click the “Pull PMP Doc” tab. 
+3. Paste the PMP story GUID into the Search term box.
+4. Click the Get document button. 
 
 You'll see a green box with a link to the story. Click the story link and it opens as a web page. You can now edit the story to assign it to a Category, add Tags, or relate it to a Program. This is how you can organize PMP stories on your Core Publisher page by Category, Tag, or Program, which we'll get to in a minute.
 
@@ -23,13 +23,13 @@ https://support.pmp.io/?advanced=1&profile=story&has=image
 
 ##There are also several ways to search the PMP for stories from inside Core Publisher:
 
-1 Click on Find Content in the top navigation. 
-2 Click on Search PMP docs.
-3 In the Text search box, enter a search term. 
-4 In the Filter By section, for the Profile select Story. There isn’t much point in searching for just an image, audio, or video if you want to pull in a complete story.
-5 In the Creator and Program dropdown menus, make a selection to narrow the search, or leave the default All to search everything in the PMP.
-6 Hit the Search button and see the results appear below.
-7 Click on a story link to open it as a Core Publisher story page, and add a Category, Tab, Related Program, etc.
+1. Click on Find Content in the top navigation. 
+2. Click on Search PMP docs.
+3. In the Text search box, enter a search term. 
+4. In the Filter By section, for the Profile select Story. There isn’t much point in searching for just an image, audio, or video if you want to pull in a complete story.
+5. In the Creator and Program dropdown menus, make a selection to narrow the search, or leave the default All to search everything in the PMP.
+6. Hit the Search button and see the results appear below.
+7. Click on a story link to open it as a Core Publisher story page, and add a Category, Tab, Related Program, etc.
 
 ### Options for fine-tuning your search
 
