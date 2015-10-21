@@ -47,8 +47,8 @@ Your search may turn up no stories or too many stories. You can adjust your sear
 
 In the Search Term box you can use these prefixes to further narrow the search:
 
-title:”search term”
-teaser:”search term”
-tags:”search term”
-content:”search term” (seems to return fewer results that just ”search term”)
-byline:”name”
+* title:”search term”
+* teaser:”search term”
+* tags:”search term”
+* content:”search term” (seems to return fewer results that just ”search term”)
+* byline:”name”
