@@ -1,6 +1,6 @@
 #Core Publisher: Pulling and displaying stories from the Public Media Platform
 
-There are two ways to pull PMP stories into your CP site. We'll cover those first, then we'll show how to organize the display of stories on pages by topic, byline, etc.
+There are two ways to pull PMP stories into your CP site. We'll cover those first, then we'll show [how to organize the display of stories on pages by topic, byline, etc.](create-landing-pages.md)
 
 ##Pulling stories into Core Publisher
 
