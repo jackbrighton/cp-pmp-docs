@@ -11,7 +11,7 @@ Create either a Category or Tag for the subject or focus of the page. Examples c
 * Health Care
 * Anything else you want
  
-Here's how to [create a Category](http://digitalservices.npr.org/post/how-create-category), and here's how to create a Tag(http://digitalservices.npr.org/post/how-create-tag) in Core Publisher.
+Here's how to [create a Category](http://digitalservices.npr.org/post/how-create-category), and here's [how to create a Tag](http://digitalservices.npr.org/post/how-create-tag) in Core Publisher.
 
 If you create a Category or Tag, Core Publisher will create a page for it with a url of http://*yoursite*.org/term/*category_or_tag_name*. 
 
