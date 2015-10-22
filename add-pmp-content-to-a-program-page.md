@@ -33,3 +33,19 @@ In the Search Term box you can use these prefixes to further narrow the search:
 * tags:”search term”
 * content:”search term” (seems to return fewer results that just ”search term”)
 * byline:”name”
+
+##Now adjust the "After stories have been created" section
+
+You can assign this query to a Category, so the PMP content will automatically get pulled into that Category's page.
+
+You can also assign the query to a Program, so the PMP content will automatically go to that Program's page.
+
+You can also assign the query to both a Category and a Program, and it will appear on both pages.
+
+##Caveats
+
+Queries set up in this way probably won't pull in PMP content right away. Content may begin to appear within 3 hours, but don't be alarmed if it takes up to a day.
+
+Once the query is up and working, it should pull any fresh PMP content that matches the query about once an hour.
+
+You can publish PMP content instantly on Program, Category, Tag, and Topic pages by using the [Find Content method of Pulling PMP content into Core Publisher](/pulling-pmp-content-into-core-publisher.md).
