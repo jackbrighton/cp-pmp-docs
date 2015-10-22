@@ -4,7 +4,7 @@ A brief guide to pulling stories and integrating them into Core Publisher websit
 
 ##Table of Contents
 
-* [Pulling PMP content into Core Publisher](/pulling-pmp-content-into-core-publisher.md)
+* [Pulling PMP content into Core Publisher by individual story](/pulling-pmp-content-into-cp-by-story.md)
 * [Creating a landing page that displays one or more stories pulled from the PMP](/create-landing-pages.md)
 * [Create an hourly pull of PMP content to a Program or Category page](/hourly-pull-to-a-page.md)
 * [What is a PMP GUID and how to use it](/what-is-a-pmp-guid.md)
