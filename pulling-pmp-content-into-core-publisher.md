@@ -1,6 +1,6 @@
 #Pulling PMP content into Core Publisher
 
-There are two ways to pull PMP stories into your CP site. We'll cover those first, then we'll show [how to organize the display of stories on pages by topic, byline, etc.](create-landing-pages.md)
+There are several ways to pull PMP stories into your Core Publisher site. The fastest way is to find individual stories, and pull them instantly into your site. These are two distinct ways to do that. We'll cover those first, then we'll show [how to organize the display of stories on pages by topic, byline, etc](create-landing-pages.md).
 
 ##If you know the [GUID](what-is-a-pmp-guid.md) of a specific PMP story you want:
 
