@@ -16,7 +16,8 @@ Click on Advanced Search to narrow your search by Type, Source, Tag, Dates, etc,
 
 Once you find a PMP item you want to use, you can easily select and copy its GUID:
 
-
+!image of story excerpt from a PMP search
+(/img/pmp-story.png)
 
 ## Options for fine-tuning your search
 
