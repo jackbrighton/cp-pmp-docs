@@ -57,4 +57,4 @@ https://support.pmp.io/?advanced=1&profile=story&has=image
 ##Next steps
 
 * [Create topic or program-based landing pages](/create-landing-pages.md) for PMP and other content
-* See also [Add PMP content to a Program page](/add-pmp-content-to-a-program-page.md)
+* See also: [Add PMP content to a Program page](/add-pmp-content-to-a-program-page.md)
