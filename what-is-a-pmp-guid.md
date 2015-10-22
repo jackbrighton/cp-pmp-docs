@@ -40,3 +40,7 @@ In the Search Term box you can use these prefixes to further narrow the search:
 * tags:”search term”
 * content:”search term” (seems to return fewer results that just ”search term”)
 * byline:”name”
+
+##Using the GUID
+
+Once you find PMP content you want to use, you can easily [add it to your Core Publisher site](/how-to-pull-pmp-content-into-core-publisher.md).
