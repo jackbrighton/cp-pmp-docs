@@ -1,6 +1,6 @@
 #Pulling PMP content into Core Publisher by individual story
 
-There are several ways to pull PMP content into your Core Publisher site. You can set up an [automatic, hourly pull of stories by program, category, or tag for display on Program or Category pages](/hourly-pull-to-a-page.md). This is a feed of PMP content you can set up once, and watch as PMP content flows into your site. But you can't choose individual stories, and it may take some time for the stories to begin displaying.
+There are several ways to pull PMP content into your Core Publisher site. You can set up an [automatic, hourly pull of stories by program, category, or tag for display on Program or Category pages](/hourly-pull-to-a-page.md). The advantage here is you can set it up once, and watch as PMP content automatically flows into your site. But you can't choose individual stories, and it may take some time for the stories to begin displaying.
 
 The fastest way to get PMP content is to find individual stories, and pull them instantly into your site. This has the advantage of allowing you to curate specific stories and put them wherever you want on your site. There are two distinct ways to do select and pull individual PMP stories. We'll cover those first, then we'll show [how to organize the display of stories on pages by topic, byline, etc](create-landing-pages.md).
 
