@@ -11,7 +11,7 @@ There are two ways to pull PMP stories into your CP site. We'll cover those firs
 
 You'll see a green box with a link to the story. Click the story link and it opens as a web page. You can now edit the story to assign it to a Category, add Tags, or relate it to a Program. This is how you can organize PMP stories on your Core Publisher page by Category, Tag, or Program.
 
-##If you don't know the [GUID](what-is-a-pmp-guid.md) of a specific PMP story
+##If you don't know the [GUID](what-is-a-pmp-guid.md) of a specific PMP story, search the PMP
 
 You can search the PMP for stories from inside Core Publisher:
 
@@ -44,7 +44,7 @@ In the Search Term box you can use these prefixes to further narrow the search:
 * content:”search term” (seems to return fewer results that just ”search term”)
 * byline:”name”
 
-##Optional: Search for content and get GUIDs from the PMP site
+##Optional: You can also search for content and get GUIDs from the PMP site
 
 You can search for PMP content, and find the GUID for each item you find, on the PMP support site: 
 
