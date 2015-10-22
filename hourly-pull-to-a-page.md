@@ -1,4 +1,4 @@
-#Add PMP content to a Program page
+#Create an hourly pull of PMP content to a Program or Category page
 
 You can pull in PMP content to an existing Program page, or create a new Program page and set up an automatic hourly pull of content from the PMP. 
 
