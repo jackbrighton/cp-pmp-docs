@@ -1,6 +1,6 @@
 #Creating a page that displays one or more stories pulled from the PMP
 
-There are at least three ways to create a landing page for a project or subject area, where you can pull in stories for the project or subject. You can pull in PMP stories, post your own stories, and provide a mix or related stories on a landing page or website section. 
+There are at least three ways to create a landing page for a project or subject area, where you can pull in stories for a given project or subject. You can pull in PMP stories, post your own stories, and add related stories on a landing page or website section. 
 
 The first two methods are very similar:
 
@@ -10,8 +10,18 @@ Create either a Category or Tag for the subject or focus of the page. Examples c
 * Environment
 * Health Care
 * Anything else you want
+ 
+Here's how to [create a Category](http://digitalservices.npr.org/post/how-create-category), and here's how to create a Tag(http://digitalservices.npr.org/post/how-create-tag) in Core Publisher.
 
-If you create a Category or Tag, CP will create a page for it with a url of http://*yoursite*.org/term/*category_or_tag_name*. 
+If you create a Category or Tag, Core Publisher will create a page for it with a url of http://*yoursite*.org/term/*category_or_tag_name*. 
+
+You can edit the Category or Tag to add a Description which will be added to the page.
+
+##Post PMP stories on a Category or Tag page
+
+Adding PMP content to a Category or Tag page is easy: Go to Find Content and either [Pull a PMP Doc by its PMP GUID](/pulling-pmp-content-into-core-publisher.md#if-you-know-the-guid-of-a-specific-pmp-story-you-want), or [Search the PMP docs](/pulling-pmp-content-into-core-publisher.md#if-you-dont-know-the-guid-of-a-specific-pmp-story-search-the-pmp) to find one or more stories you want to pull. For each story you pull, edit the story and add Category or Tag you want. The story will instantly display on the Category or Tag page.
+
+##Post PMP stories to a Topic page
 
 The third method of creating a project or subject landing page is to create a Topic page. A Topic page for (e.g.) the topic of Health Care will have a url like this: http://*yoursite*.org/topic/*health-care*
 
