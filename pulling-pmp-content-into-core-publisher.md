@@ -53,3 +53,5 @@ https://support.pmp.io/
 Click on Advanced Search to narrow your search, or simply use this url which does the same thing:
 
 https://support.pmp.io/?advanced=1&profile=story&has=image
+
+##Next steps: [Create topic or program-based landing pages](/create-landing-pages.md) for PMP and other content
