@@ -2,7 +2,7 @@
 
 There are two ways to pull PMP stories into your CP site. We'll cover those first, then we'll show [how to organize the display of stories on pages by topic, byline, etc.](create-landing-pages.md)
 
-##If you know the GUID of a specific PMP story you want:
+##If you know the [GUID](what-is-a-pmp-guid.md) of a specific PMP story you want:
 
 1. Click on Find Content in the top navigation. 
 2. Click the “Pull PMP Doc” tab. 
@@ -39,7 +39,6 @@ https://support.pmp.io/?advanced=1&profile=story&has=image
 * In the Tag(s) box you can enter one tag or more separated by a space. This will find all stories so tagged. Tags are more specific than a Text search, so are likely to return fewer stories. 
 * You can combine Text search and Tags to filter stories even further. 
 * Note also that different producers use Tags in different ways, so a search for stories by Tags may produce inconsistent or incomplete results. 
-
 
 Your search may turn up no stories or too many stories. You can adjust your search and hit the Search button again as needed. 
 
