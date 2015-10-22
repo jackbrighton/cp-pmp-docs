@@ -5,7 +5,8 @@ A brief guide to pulling stories and integrating them into Core Publisher websit
 ##Table of Contents
 
 * [Pulling PMP content into Core Publisher](/pulling-pmp-content-into-core-publisher.md)
-* [Creating a page that displays one or more stories pulled from the PMP](/create-landing-pages.md)
+* [Creating a landing page that displays one or more stories pulled from the PMP](/create-landing-pages.md)
+* [Add PMP content to an existing Program page]()
 * [What is a PMP GUID and how to use it](/what-is-a-pmp-guid.md)
  
 ###NPR DS guide to setting up Core Publisher with the PMP
