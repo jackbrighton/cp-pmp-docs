@@ -9,19 +9,11 @@ There are two ways to pull PMP stories into your CP site. We'll cover those firs
 3. Paste the PMP story GUID into the Search term box.
 4. Click the Get document button. 
 
-You'll see a green box with a link to the story. Click the story link and it opens as a web page. You can now edit the story to assign it to a Category, add Tags, or relate it to a Program. This is how you can organize PMP stories on your Core Publisher page by Category, Tag, or Program, which we'll get to in a minute.
+You'll see a green box with a link to the story. Click the story link and it opens as a web page. You can now edit the story to assign it to a Category, add Tags, or relate it to a Program. This is how you can organize PMP stories on your Core Publisher page by Category, Tag, or Program.
 
-##But what if you don't know the GUID of the PMP story?
+##If you don't know the [GUID](what-is-a-pmp-guid.md) of a specific PMP story
 
-You can search for PMP stories, and find the GUID for each story you find, on the PMP support site here: 
-
-https://support.pmp.io/
-
-Click on Advanced Search to narrow your search, or simply use this url which does the same thing:
-
-https://support.pmp.io/?advanced=1&profile=story&has=image
-
-##There are also several ways to search the PMP for stories from inside Core Publisher:
+You can search the PMP for stories from inside Core Publisher:
 
 1. Click on Find Content in the top navigation. 
 2. Click on Search PMP docs.
@@ -51,3 +43,13 @@ In the Search Term box you can use these prefixes to further narrow the search:
 * tags:”search term”
 * content:”search term” (seems to return fewer results that just ”search term”)
 * byline:”name”
+
+##Optional: Search for content and get GUIDs from the PMP site
+
+You can search for PMP content, and find the GUID for each item you find, on the PMP support site: 
+
+https://support.pmp.io/
+
+Click on Advanced Search to narrow your search, or simply use this url which does the same thing:
+
+https://support.pmp.io/?advanced=1&profile=story&has=image
