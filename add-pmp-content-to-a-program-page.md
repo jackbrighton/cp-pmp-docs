@@ -2,10 +2,10 @@
 
 You can pull in PMP content to an existing Program page, or create a new Program page and set up an automatic hourly pull of content from the PMP. 
 
-1. In the Core Publisher control panel click Configure Corepublisher
-2. Under Content Management click Get PMP Content
-3. Assuming the API Settings are filled in, click the Queries tab
-4. Click the Add Query button to open a new Query form
+1. In the Core Publisher control panel click Configure Corepublisher.
+2. Under Content Management click Get PMP Content.
+3. Assuming the API Settings are filled in, click the Queries tab.
+4. Click the Add Query button to open a new Query form.
 5. Begin filling out the form with a Query name. 
 6. Use the Program dropdown to select which programs you want to pull PMP content from.
 7. Use the Creator menu to select a content source as desired. 
