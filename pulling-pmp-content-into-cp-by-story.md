@@ -11,7 +11,7 @@ The fastest way to get PMP content is to find individual stories, and pull them 
 3. Paste the PMP story GUID into the Search term box.
 4. Click the Get document button. 
 
-You'll see a green box with a link to the story. Click the story link and it opens as a web page. You can now edit the story to assign it to a Category, add Tags, or relate it to a Program. This is how you can organize PMP stories on your Core Publisher page by Category, Tag, or Program.
+You'll see a green box with a link to the story. Click the story link and it opens as a web page. You can now edit the story to assign it to a Category, add Tags, or relate it to a Program. This is the most direct way you can organize specific PMP stories on your Core Publisher pages by Category, Tag, or Program.
 
 ##If you don't know the [GUID](what-is-a-pmp-guid.md) of a specific PMP story, search the PMP
 
