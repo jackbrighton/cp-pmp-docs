@@ -19,7 +19,7 @@ You can edit the Category or Tag to add a Description which will be added to the
 
 ##Post PMP stories on a Category or Tag page
 
-Adding PMP content to a Category or Tag page is easy: Go to Find Content and either [Pull a PMP story by its PMP GUID](/pulling-pmp-content-into-cp-by-story.md#if-you-know-the-guid-of-a-specific-pmp-story-you-want), or [Search the PMP](/pulling-pmp-content-into-cp-by-story.md#if-you-dont-know-the-guid-of-a-specific-pmp-story-search-the-pmp) to find one or more stories you want to pull. For each story you pull, edit the story and add Category or Tag you want. The story will instantly display on the Category or Tag page.
+Adding PMP content to a Category or Tag page is easy: Go to Find Content and either [Pull a PMP story by its PMP GUID](/pulling-pmp-content-into-cp-by-story.md#if-you-know-the-guid-of-a-specific-pmp-story-you-want), or [Search the PMP](/pulling-pmp-content-into-cp-by-story.md#if-you-dont-know-the-guid-of-a-specific-pmp-story-search-the-pmp) to find one or more stories you want to pull. For each story you pull, edit the story and add the Category or Tag you want. The story will instantly display on the Category or Tag page.
 
 ##Post PMP stories to a Topic page
 
