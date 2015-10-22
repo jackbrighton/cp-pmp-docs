@@ -43,4 +43,4 @@ In the Search Term box you can use these prefixes to further narrow the search:
 
 ##Using the GUID
 
-Once you find PMP content you want to use, you can easily [add it to your Core Publisher site](/pulling-pmp-content-into-core-publisher.md).
+Once you find PMP content you want to use, you can easily [add it to your Core Publisher site](/pulling-pmp-content-into-cp-by-story.md).
