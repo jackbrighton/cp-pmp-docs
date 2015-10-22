@@ -22,7 +22,7 @@ You can pull in PMP content to an existing Program page, or create a new Program
 * You can combine Text search and Tags to filter stories even further.
 * Note also that different producers use Tags in different ways, so a search for stories by Tags may produce inconsistent or incomplete results.
 
-Your search may turn up no stories or too many stories. You can adjust your search and hit the Search button again as needed.
+Your search may turn up no stories or too many stories. You can always adjust your search and update the settings for the Query. 
 
 ###Ways to super-fine-tune a PMP search
 
@@ -42,10 +42,14 @@ You can also assign the query to a Program, so the PMP content will automaticall
 
 You can also assign the query to both a Category and a Program, and it will appear on both pages.
 
+##Hit "Save Settings" and your query is set up
+
+You can check the Program page to make sure the query is pulling the kind of stories you want.
+
 ##Caveats
 
-Queries set up in this way probably won't pull in PMP content right away. Content may begin to appear within 3 hours, but don't be alarmed if it takes up to a day.
+* These queries probably won't pull in PMP content right away. Content may begin to appear within 3 hours, but don't be alarmed if it takes up to a day.
 
-Once the query is up and working, it should pull any fresh PMP content that matches the query about once an hour.
+* Once the query is up and working, it should pull any fresh PMP content that matches the query about once an hour.
 
-You can publish PMP content instantly on Program, Category, Tag, and Topic pages by using the [Find Content method of Pulling PMP content into Core Publisher](/pulling-pmp-content-into-core-publisher.md).
+* If you want to publish PMP content instantly on Program, Category, Tag, and Topic pages by using the [Find Content method of Pulling PMP content into Core Publisher](/pulling-pmp-content-into-core-publisher.md).
