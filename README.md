@@ -8,9 +8,10 @@ For stations using Core Publisher, pulling content from the PMP is easy. There a
 
 Coming soon, Core Publisher will also be able to push content into the PMP. This will open new doors to collaboration and add tremendous value to the PMP as a platform for sharing content.
 
-This guide was created by the [Institute for Nonprofit News](http://inn.org/). If you have any comments or questions about it you can write to us at nerds@inn.org. 
+This guide was created by the [Institute for Nonprofit News](http://inn.org/). It is licensed under a [Creative Commons BY-NC 3.0 license](http://creativecommons.org/licenses/by-nc/3.0/). You can help improve it by:
 
-If you use GitHub and would like to help us improve this guide, you are welcome to fork, edit, and create a pull request.
+* sending a comment or question to us at nerds@inn.org. 
+* If you use GitHub you are welcome to fork, edit, and create a pull request.
 
 ##Table of Contents
 
@@ -19,6 +20,7 @@ If you use GitHub and would like to help us improve this guide, you are welcome 
 * [Create an hourly pull of PMP content to a Program or Category page](/hourly-pull-to-a-page.md)
 * [What is a PMP GUID and how to use it](/what-is-a-pmp-guid.md)
  
-###NPR DS guide to setting up Core Publisher with the PMP
+###NPR Digital Services resources on Core Publisher and the Public Media Platform
 
-NPR Digital Services has a [downloadable PDF guide](http://mediad.publicbroadcasting.net/p/newnprdsblog/files/201504/how_to_pull_content_from_the_pmp_into_core_publisher_march_2015.pdf) describing the steps needed to set up your Core Publisher site for pulling content from the PMP.
+* NPR DS has a [downloadable PDF guide](http://mediad.publicbroadcasting.net/p/newnprdsblog/files/201504/how_to_pull_content_from_the_pmp_into_core_publisher_march_2015.pdf) describing the steps needed to set up your Core Publisher site for pulling content from the PMP.
+* [The Core Publisher Knowledge Base](http://digitalservices.npr.org/support/knowledgebase/corepublisher) has extensive guides to getting started and using Core Publisher.
