@@ -8,7 +8,7 @@ For stations using Core Publisher, pulling content from the PMP is easy. There a
 
 Coming soon, Core Publisher will also be able to push content into the PMP. This will open new doors to collaboration and add tremendous value to the PMP as a platform for sharing content.
 
-This guide was created by the (Institute for Nonprofit News)[http://inn.org/]. If you have any comments or questions about it you can write to us at nerds@inn.org. 
+This guide was created by the [Institute for Nonprofit News](http://inn.org/). If you have any comments or questions about it you can write to us at nerds@inn.org. 
 
 If you use GitHub and would like to help us improve this guide, you are welcome to fork, edit, and create a pull request.
 
