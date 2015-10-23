@@ -23,7 +23,9 @@ You can search the PMP for stories from inside Core Publisher:
 4. In the Filter By section, for the Profile select Story. There isn’t much point in searching for just an image, audio, or video if you want to pull in a complete story.
 5. In the Creator and Program dropdown menus, make a selection to narrow the search, or leave the default All to search everything in the PMP.
 6. Hit the Search button and see the results appear below.
-7. Click on a story link to open it as a Core Publisher story page, and add a Category, Tab, Related Program, etc.
+7. Click on a story link to Preview it as a PMP Document. You can Cancel if you don't want it, or hit the Pull button to add the story as a Core Publisher story page.
+8. You'll see a green box with a link to the story page. Click the link to open the page, then the Edit tab. You'll want to add a Category, Tag, and/or Related Program, which add the story to the category, tag, or program page. 
+9. Hit Publish and you're done.
 
 ### Options for fine-tuning your search
 
