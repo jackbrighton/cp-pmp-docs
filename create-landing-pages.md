@@ -30,5 +30,5 @@ The only difference with a Topic page is that you can associate it with up to fi
 Adding PMP content to a Topic page is the same as for a Category or Tag page: Go to Find Content and either Pull a PMP Doc by its PMP GUID, or Search the PMP docs to find one or more stories you want to pull. Either way, after you pull a story you need to hit its Edit tab and add a Tag associated with the Topic Page.
 
 ##See also:
-* [Pulling PMP content into Core Publisher by individual story](/pulling-pmp-content-into-cp-by-story.md)
-* [Create an hourly pull of PMP content to a Program or Category page](/hourly-pull-to-a-page.md)
+* [Pulling PMP Content into Core Publisher by Individual Story](/pulling-pmp-content-into-cp-by-story.md)
+* [Create an Hourly Pull of PMP Pontent to a Program or Category Page](/hourly-pull-to-a-page.md)
