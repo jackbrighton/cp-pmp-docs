@@ -52,4 +52,4 @@ You can check the Program page to make sure the query is pulling the kind of sto
 
 * Once the query is up and working, it should pull any fresh PMP content that matches the query about once an hour.
 
-* If you want to publish PMP content instantly on Program, Category, Tag, and Topic pages by using the [Find Content method of Pulling PMP content into Core Publisher](/pulling-pmp-content-into-core-publisher.md).
+* If you want to publish PMP content instantly on Program, Category, Tag, and Topic pages by using the [Find Content method of Pulling PMP content into Core Publisher](/pulling-pmp-content-into-cp-by-story.md).
