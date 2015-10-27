@@ -1,8 +1,8 @@
-#What is a GUID and how to use it
+#What is a GUID and How to Use It
 
 GUID is short for Globally Unique Identifier. It's like a number of the Dewey Decimal System, but for digital items instead of books.
 
-In the Public Media Platform a GUID is a long string of characters like this: 
+In the Public Media Platform a GUID is a longish string of characters like this: 
 
 bb17b68e-0ee6-4090-8536-815e3c77dd08
 
