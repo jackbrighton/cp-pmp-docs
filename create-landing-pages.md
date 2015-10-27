@@ -1,4 +1,4 @@
-#Creating a landing page that displays one or more stories pulled from the PMP
+#Creating a Landing Page to Display Stories Pulled from the PMP
 
 There are at least three ways to create a landing page for a project or subject area, where you can pull in stories for a given project or subject. You can pull in PMP stories, post your own stories, and add related stories on a landing page or website section. 
 
