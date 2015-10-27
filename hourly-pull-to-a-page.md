@@ -1,4 +1,4 @@
-#Create an hourly pull of PMP content to a Program or Category page
+#Create an Hourly Pull of PMP Content to a Core Publisher Program or Category Page
 
 You can pull in PMP content to an existing Program page, or create a new Program page and set up an automatic hourly pull of content from the PMP. 
 
