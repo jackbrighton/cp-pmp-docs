@@ -11,7 +11,7 @@ Coming soon, Core Publisher will also be able to push content into the PMP. This
 ##What's here
 
 * [Pulling PMP content into Core Publisher by individual story](/pulling-pmp-content-into-cp-by-story.md)
-* [Creating a landing page that displays one or more stories pulled from the PMP](/create-landing-pages.md)
+* [Creating a landing page to display stories pulled from the PMP](/create-landing-pages.md)
 * [Creating an hourly pull of PMP content to a Program or Category page](/hourly-pull-to-a-page.md)
 * [What is a PMP GUID and how to use it](/what-is-a-pmp-guid.md)
  
