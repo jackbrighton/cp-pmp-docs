@@ -1,4 +1,4 @@
-#A brief guide to pulling PMP stories into Core Publisher
+#A Brief Guide to Pulling PMP Stories into Core Publisher
 
 At this writing the [Public Media Platform](http://publicmediaplatform.org/) provides access to 428,112 pieces of content from PBS, NPR, APM, PRI, and PRX. As more public media stations begin pushing local content into the PMP, the total store will rapidly grow. Anyone with a PMP account can pull this content and reuse it in various ways. 
 
