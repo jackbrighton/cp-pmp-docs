@@ -2,9 +2,11 @@
 
 ##Images
 
-Pulling a story into Core Publisher from the PMP sometimes results in a broken image within the story, making the story unusable or at least impaired.
+Pulling a story into Core Publisher from the PMP sometimes results in a broken image within the story, making the story unusable or at least impaired. Use your judgement about what works for your purpose.
 
 Related stories added to a post may also display broken images.
+
+These are known issues and should get fixed.
 
 ##Category Page urls
 
