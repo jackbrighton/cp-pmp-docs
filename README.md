@@ -1,5 +1,8 @@
 #A Brief Guide to Pulling PMP Stories into Core Publisher
 
+![image of PMP pulling content from sources]
+(/img/infographic-push_pull-forweb-858px.png)
+
 At this writing the [Public Media Platform](http://publicmediaplatform.org/) provides access to 430,038 pieces of content from PBS, NPR, APM, PRI, and PRX. As more public media stations begin pushing local content into the PMP, the total store will rapidly grow. Anyone with a PMP account can pull this content and reuse it in various ways. 
 
 For local station websites, access to the PMP means they can pull in external content related to their own programs, stories, and projects. Adding related content from the PMP can provide context and depth to local content. Multi-station projects, like the Regional Journalism Collaborations, can use the PMP to aggregate and reuse content from all the stations. This can increase the reach and impact of our work, and grow our audience. 
