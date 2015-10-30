@@ -27,6 +27,10 @@ You can search the PMP for stories from inside Core Publisher:
 8. You'll see a green box with a link to the story page. Click the link to open the page, then the Edit tab. You'll want to add a Category, Tag, and/or Related Program, which add the story to the category, tag, or program page. 
 9. Hit Publish and you're done.
 
+###Finding stories from PMP Partner websites
+
+Instead of starting with a search for PMP content in Core Publisher, you might begin by finding stories you want on PMP partner websites, like Marketplace, PRI, and NPR. Then do your search using part or all of the story headline.
+
 ### Options for fine-tuning your search
 
 * To search just titles, you can enter title:election. 
