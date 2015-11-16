@@ -17,7 +17,7 @@ Coming soon, Core Publisher will also be able to push content into the PMP. This
 * [Creating a landing page to display stories pulled from the PMP](/create-landing-pages.md)
 * [Creating an hourly pull of PMP content to a Program or Category page](/hourly-pull-to-a-page.md)
 * [What is a PMP GUID and how to use it](/what-is-a-pmp-guid.md)
-* [Bugs and Known Issues with the PMP in Core Pubisher, and how to get help](/bugs)
+* [Bugs and Known Issues with the PMP in Core Pubisher, and how to get help](/bugs.md)
  
 ###NPR Digital Services resources on Core Publisher and the PMP
 
