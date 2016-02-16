@@ -27,10 +27,14 @@ You can now edit the story to assign it to a Category, add Tags, or relate it to
 
 You can search the PMP for stories from inside Core Publisher:
 
-1) Click on `Find Content` in the top navigation. 
+1) Click on `Find Content` in the top navigation.
+
 2) Click on `Search PMP` docs.
+
 3) In the Text search box, enter a search term. Use quotation marks if you want to find an exact match.
+
 4) In the `Filter By` section, for the Profile select `story`, unless you are searching for just an image, audio, or video element.
+
 5) In the `Creator` and `Program` dropdown menus, make a selection (like `NPR`) to narrow the search, or leave the default `All` to search everything in the PMP. 
 
 ![search for PMP content by keyword in Core Publisher]
