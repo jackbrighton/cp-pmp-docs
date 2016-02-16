@@ -52,6 +52,9 @@ You can search the PMP for stories from inside Core Publisher:
 
 8) After you hit the `Pull` button you'll see a green box with a link to the story page. Click the link to open the page, then the Edit tab. You'll want to add a Category, Tag, and/or Related Program, which add the story to the category, tag, or program page. 
 
+![PMP content preview in Core Publisher]
+(/img/pmp-story-pulled-green-box.png)
+
 9) Hit Publish and you're done.
 
 ###Finding stories from PMP Partner websites
