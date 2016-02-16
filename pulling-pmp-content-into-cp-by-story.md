@@ -11,7 +11,7 @@ Click on Find Content in the top navigation, then click the “Pull PMP Doc” t
 ![PMP GUID pasted into the GUID box in Core Publisher]
 (/img/pmp-pull-by-guid.png)
 
-Click the Get document button. You'll see a green box with a link to the story:
+Click the `Get document` button. You'll see a green box with a link to the story:
 
 ![story from the PMP returned to Core Publisher]
 (/img/pmp-story-pulled-by-guid.png)
