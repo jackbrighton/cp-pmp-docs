@@ -57,9 +57,9 @@ You can search the PMP for stories from inside Core Publisher:
 
 9) Click the link to open the story as a Core Publisher post, then the `Edit` tab. You'll want to add a Category, Tag, and/or Related Program, which add the story to your category, tag, or program pages. 
 
-10) Hit Publish and you're done.
+10) Hit `Publish` and you're done.
 
-Note that stories pulled from the PMP can't be push to NPR or NPROne, since they're already in the NPR system.
+Note that stories pulled from the PMP can't be pushed to NPR or NPROne, since they're already in the NPR system.
 
 ###Finding stories from PMP Partner websites
 
