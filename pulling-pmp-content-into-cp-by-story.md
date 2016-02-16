@@ -27,23 +27,23 @@ You can now edit the story to assign it to a Category, add Tags, or relate it to
 
 You can search the PMP for stories from inside Core Publisher:
 
-1. Click on `Find Content` in the top navigation. 
-2. Click on `Search PMP` docs.
-3. In the Text search box, enter a search term. Use quotation marks if you want to find an exact match.
-4. In the `Filter By` section, for the Profile select `story`, unless you are searching for just an image, audio, or video element.
-5. In the `Creator` and `Program` dropdown menus, make a selection (like `NPR`) to narrow the search, or leave the default `All` to search everything in the PMP. 
+1) Click on `Find Content` in the top navigation. 
+2) Click on `Search PMP` docs.
+3) In the Text search box, enter a search term. Use quotation marks if you want to find an exact match.
+4) In the `Filter By` section, for the Profile select `story`, unless you are searching for just an image, audio, or video element.
+5) In the `Creator` and `Program` dropdown menus, make a selection (like `NPR`) to narrow the search, or leave the default `All` to search everything in the PMP. 
 
 ![search for PMP content by keyword in Core Publisher]
 (/img/pmp-search-in-core-publisher.png)
 
-6. Hit the `Search` button and see the results appear below:
+6) Hit the `Search` button and see the results appear below:
 
 ![search for PMP content by keyword in Core Publisher]
 (/img/pmp-story-search-results-in-core-publisher.png)
 
-7. Click on a story link to Preview it as a PMP Document. You can Cancel if you don't want it, or hit the Pull button to add the story as a Core Publisher story page.
-8. You'll see a green box with a link to the story page. Click the link to open the page, then the Edit tab. You'll want to add a Category, Tag, and/or Related Program, which add the story to the category, tag, or program page. 
-9. Hit Publish and you're done.
+7) Click on a story link to Preview it as a PMP Document. You can Cancel if you don't want it, or hit the Pull button to add the story as a Core Publisher story page.
+8) You'll see a green box with a link to the story page. Click the link to open the page, then the Edit tab. You'll want to add a Category, Tag, and/or Related Program, which add the story to the category, tag, or program page. 
+9) Hit Publish and you're done.
 
 ###Finding stories from PMP Partner websites
 
