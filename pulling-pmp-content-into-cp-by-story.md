@@ -65,6 +65,9 @@ For more on PMP GUIDs, you can also see our documentation on [What is a GUID and
 
 9) Click the link to open the story as a Core Publisher post, then the `Edit` tab. You'll want to add a Category, Tag, and/or Related Program, which add the story to your category, tag, or program pages. 
 
+![story from the PMP being edited in Core Publisher]
+(/img/pmp-story-cp-edit.png)
+
 10) Hit `Publish` and you're done.
 
 Note that stories pulled from the PMP can't be pushed to NPR or NPROne, since they're already in the NPR system.
