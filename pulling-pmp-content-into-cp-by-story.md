@@ -10,7 +10,7 @@ The fastest way to get PMP content into Core Publisher is to find individual sto
 
 The GUID is a globally unique identifier assigned by the PMP to a story, image, audio, or video. You can find the GUID for a piece of content by using the [PMP search engine](https://support.pmp.io/). 
 
-For more on the fascinating topic of GUIDs, you can also see our documentation on [What is a GUID and how to use it](what-is-a-pmp-guid.md).
+For more on PMP GUIDs, you can also see our documentation on [What is a GUID and how to use it](what-is-a-pmp-guid.md).
 
 ### Assuming you have the GUID of a story you want to pull into Core Publisher:
 
@@ -75,18 +75,18 @@ Instead of starting with a search for PMP content in Core Publisher, you might b
 
 ### Options for fine-tuning your search
 
-* To search just titles, you can enter title:election. 
-* If you want a really specific search, you can enter something like title:”election results” which will find only stories with that exact phrase in the title. (Important: if your search term is more than a single word, enclose it in quotes.)
-* To search for stories containing a subject in the body of the story, just enter the subject as a Search term without “title:” in front of the term. 
-* In the Tag(s) box you can enter one tag or more separated by a space. This will find all stories so tagged. Tags are more specific than a Text search, so are likely to return fewer stories. 
-* You can combine Text search and Tags to filter stories even further. 
-* Note also that different producers use Tags in different ways, so a search for stories by Tags may produce inconsistent or incomplete results. 
+* To search just titles, you can enter `title:election`. 
+* If you want a really specific search, you can enter something like `title:”election results”` which will find only stories with that exact phrase in the title. (Important: if your search term is more than a single word, enclose it in quotes.)
+* To search for stories containing a subject in the body of the story, just enter the subject as a Search term without `“title:”` in front of the term. 
+* In the `Tag(s)` box you can enter one tag or more separated by a space. This will find all stories so tagged. Tags are more specific than a Text search, so are likely to return fewer stories. 
+* You can combine `Text` search and `Tags` to filter stories even further. 
+* Note also that different producers use `Tags` in different ways, so a search for stories by `Tags` may produce inconsistent or incomplete results. 
 
-Your search may turn up no stories or too many stories. You can adjust your search and hit the Search button again as needed. 
+Your search may turn up no stories or too many stories. You can adjust your search and hit the `Search` button again as needed. 
 
 ### Ways to super-fine-tune a PMP search
 
-In the Search Term box you can use these prefixes to further narrow the search:
+In the `Search term` box you can use these prefixes to further narrow the search:
 
 * title:”search term”
 * teaser:”search term”
@@ -100,7 +100,7 @@ You can search for PMP content, and find the GUID for each item you find, on the
 
 https://support.pmp.io/
 
-Click on Advanced Search to narrow your search, or simply use this url which does the same thing:
+Click on Advanced Search to narrow your search to only stories with images, or simply use this url which does the same thing:
 
 https://support.pmp.io/?advanced=1&profile=story&has=image
 
