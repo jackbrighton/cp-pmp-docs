@@ -10,7 +10,7 @@ The fastest way to get PMP content into Core Publisher is to find individual sto
 
 The GUID is a globally unique identifier assigned by the PMP to a story, image, audio, or video. You can find the GUID for a piece of content by using the [PMP search engine](https://support.pmp.io/). 
 
-Also see our documentation on [What is a GUID and how to use it](what-is-a-pmp-guid.md).
+For more on the fascinating topic of GUIDs, you can also see our documentation on [What is a GUID and how to use it](what-is-a-pmp-guid.md).
 
 ### Assuming you have the GUID of a story you want to pull into Core Publisher:
 
