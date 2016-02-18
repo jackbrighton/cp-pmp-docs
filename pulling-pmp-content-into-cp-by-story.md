@@ -6,28 +6,34 @@ The fastest way to get PMP content into Core Publisher is to find individual sto
 
 - [How to set up an automatic, hourly pull of stories by program, category, or tag for display on Program or Category pages](/hourly-pull-to-a-page.md).
 
-##If you know the [GUID](what-is-a-pmp-guid.md) of a specific PMP story you want:
+##If you know the [GUID](what-is-a-pmp-guid.md) of a specific PMP story you want
 
-Click on `Find Content` in the top navigation, then click the `Pull PMP Doc` tab. Paste the PMP story GUID into the Search term box:
+The GUID is a globally unique identifier assigned by the PMP to a story, image, audio, or video. You can find the GUID for a piece of content by using the [PMP search engine](https://support.pmp.io/). 
+
+Also see our documentation on [What is a GUID and how to use it](what-is-a-pmp-guid.md).
+
+### Assuming you have the GUID of a story you want to pull into Core Publisher:
+
+1) Click on `Find Content` in the top navigation, then click the `Pull PMP Doc` tab. Paste the PMP story GUID into the Search term box:
 
 ![PMP GUID pasted into the GUID box in Core Publisher]
 (/img/pmp-pull-by-guid.png)
 
-Click the `Get document` button. You'll see a green box with a link to the story:
+2) Click the `Get document` button. You'll see a green box with a link to the story:
 
 ![story from the PMP returned to Core Publisher]
 (/img/pmp-story-pulled-by-guid.png)
 
-Click the story link and it opens as a web page:
+3) Click the story link and it opens as a web page:
 
 ![story from the PMP ready to edit in Core Publisher]
 (/img/pmp-story-pulled-page.png)
 
-You can now edit the story to assign it to a Category, add Tags, or relate it to a Program. This is the most direct way you can organize specific PMP stories on your Core Publisher pages by Category, Tag, or Program.
+4) You can now edit the story to assign it to a Category, add Tags, or relate it to a Program. This is the most direct way you can organize specific PMP stories on your Core Publisher pages by Category, Tag, or Program.
 
 ##If you don't know the [GUID](what-is-a-pmp-guid.md) of a specific PMP story, search the PMP
 
-You can search the PMP for stories from inside Core Publisher:
+### You can search the PMP for stories from inside Core Publisher:
 
 1) Click on `Find Content` in the top navigation.
 
@@ -63,7 +69,7 @@ You can search the PMP for stories from inside Core Publisher:
 
 Note that stories pulled from the PMP can't be pushed to NPR or NPROne, since they're already in the NPR system.
 
-###Finding stories from PMP Partner websites
+### Finding stories from PMP Partner websites
 
 Instead of starting with a search for PMP content in Core Publisher, you might begin by finding stories you want on PMP partner websites, like Marketplace, PRI, and NPR. Then do your search using part or all of the story headline.
 
@@ -78,7 +84,7 @@ Instead of starting with a search for PMP content in Core Publisher, you might b
 
 Your search may turn up no stories or too many stories. You can adjust your search and hit the Search button again as needed. 
 
-###Ways to super-fine-tune a PMP search
+### Ways to super-fine-tune a PMP search
 
 In the Search Term box you can use these prefixes to further narrow the search:
 
@@ -88,7 +94,7 @@ In the Search Term box you can use these prefixes to further narrow the search:
 * content:”search term” (seems to return fewer results that just ”search term”)
 * byline:”name”
 
-##Optional: You can also search for content and get GUIDs from the PMP site
+## Optional: You can also search for content and get GUIDs from the PMP site
 
 You can search for PMP content, and find the GUID for each item you find, on the PMP support site: 
 
@@ -98,7 +104,7 @@ Click on Advanced Search to narrow your search, or simply use this url which doe
 
 https://support.pmp.io/?advanced=1&profile=story&has=image
 
-##Next steps
+## Next steps
 
 * [Create topic or program-based landing pages](/create-landing-pages.md) for PMP and other content
-* See also: [Create an hourly pull of PMP content to a Program or Category page](/hourly-pull-to-a-page.md)
+* [Create an hourly pull of PMP content to a Program or Category page](/hourly-pull-to-a-page.md)
