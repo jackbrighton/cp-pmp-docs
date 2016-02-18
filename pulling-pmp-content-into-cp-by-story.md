@@ -80,7 +80,7 @@ Instead of starting with a search for PMP content in Core Publisher, you might b
 * To search for stories containing a subject in the body of the story, just enter the subject as a Search term without `“title:”` in front of the term. 
 * In the `Tag(s)` box you can enter one tag or more separated by a space. This will find all stories so tagged. Tags are more specific than a Text search, so are likely to return fewer stories. 
 * You can combine `Text` search and `Tags` to filter stories even further. 
-* Note also that different producers use `Tags` in different ways, so a search for stories by `Tags` may produce inconsistent or incomplete results. 
+* Note also that different producers use tags in different ways, so a search for stories by `Tags` may produce inconsistent or incomplete results. 
 
 Your search may turn up no stories or too many stories. You can adjust your search and hit the `Search` button again as needed. 
 
