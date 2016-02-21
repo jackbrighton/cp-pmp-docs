@@ -13,10 +13,10 @@ Create either a Category or Tag for the subject or focus of the page. Examples c
  
 (Here are NPR DS's instructions on how to [create a Category](http://digitalservices.npr.org/post/how-create-category), and [how to create a Tag](http://digitalservices.npr.org/post/how-create-tag) in Core Publisher.)
 
-To create a new Category or Tag, click on Configure Core Publisher in the top menu. then click either Manage Categories or Manage tags:
+To create a new Category or Tag, click on `Configure Core Publisher` in the top menu, then click either `Manage Categories` or `Manage tags`:
 
 ![Configuring Categories and Tags in Core Publisher]
-(/img/configure-core-publisher.png)
+(/img/configure-terms-core-publisher.png)
 
 When you create a Category or Tag, Core Publisher will create a page for it with a url of `http://yoursite.org/term/category_or_tag_name` 
 
@@ -28,7 +28,7 @@ Adding PMP content to a Category or Tag page is easy: Go to Find Content and eit
 
 ##Post PMP stories to a Topic page
 
-The third method of creating a project or subject landing page is to create a Topic page. A Topic page for (e.g.) the topic of Health Care will have a url like this: http://*yoursite*.org/topic/*health-care*
+The third method of creating a project or subject landing page is to create a Topic page. A Topic page for (e.g.) the topic of Health Care will have a url like this: `http://yoursite.org/topic/health-care`
 
 The only difference with a Topic page is that you can associate it with up to five different Tags. So any story tagged with any of the associated tags will display on the Topic page. This might be handy when you want a landing page to display lots of existing stories that are tagged with different tags. For example, if you want a landing page for Health Care, and you know there are existing stories with tags like health, health care, hospitals, medicine, and wellness, you can simply add these as Associated Tags in the Topic page. Stories tagged with any of these will instantly display on on the Health Care topic page.
 
