@@ -11,11 +11,16 @@ Create either a Category or Tag for the subject or focus of the page. Examples c
 * Health Care
 * Anything else you want
  
-Here's how to [create a Category](http://digitalservices.npr.org/post/how-create-category), and here's [how to create a Tag](http://digitalservices.npr.org/post/how-create-tag) in Core Publisher.
+(Here are NPR DS's instructions on how to [create a Category](http://digitalservices.npr.org/post/how-create-category), and [how to create a Tag](http://digitalservices.npr.org/post/how-create-tag) in Core Publisher.)
 
-If you create a Category or Tag, Core Publisher will create a page for it with a url of `http://*yoursite*.org/term/*category_or_tag_name*` 
+To create a new Category or Tag, click on Configure Core Publisher in the top menu. then click either Manage Categories or Manage tags:
 
-You can edit the Category or Tag to add a Description which will be added to the page.
+![Configuring Categories and Tags in Core Publisher]
+(/img/configure-core-publisher.png)
+
+When you create a Category or Tag, Core Publisher will create a page for it with a url of `http://yoursite.org/term/category_or_tag_name` 
+
+You can also edit the Category or Tag to add a Description which will be displayed on the page to provide further context.
 
 ##Post PMP stories on a Category or Tag page
 
