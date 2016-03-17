@@ -10,13 +10,13 @@ These are known issues and should get fixed.
 
 ##Category Page urls
 
-When you create a new Category, Core Publisher generates a category page for displaying posts in that category. Sometimes the url uses "category" in the path, and sometimes is uses "term". These are both Category pages:
+When you create a new Category, Core Publisher generates a category page for displaying posts in that category. Sometimes the url uses "category" in the path, and sometimes is uses "term". For example, these are both Category pages:
 
-http://mydomain.drupal.publicbroadcasting.net/category/arts
+`http://mydomain.drupal.publicbroadcasting.net/category/arts`
 
-http://mydomain.drupal.publicbroadcasting.net/term/music
+`http://mydomain.drupal.publicbroadcasting.net/term/music`
 
-If you're adding a Category page to the Flexi Menu, or  linking to it anywhere else, make sure to grab the correect url: in Manage Categories, right-click on it in the name of the Category and copy the link address. Then you can paste it wherever.
+If you're adding a Category page to the Flexi Menu, or linking to it anywhere else, make sure to grab the correect url: in Manage Categories, right-click on it in the name of the Category and copy the link address. Then you can paste it wherever.
 
 ##No results
 
@@ -30,4 +30,4 @@ The [PMP User Guide](https://support.pmp.io/guides) is very comprehensive but so
 
 ##Getting help with Core Publisher
 
-For any issues with Core Publisher, you should probably start with the [NPR Digital Services Help Center](http://digitalservices.npr.org/support). There you can explore the Knowledge Base, view training videos, find and share solutions with other CP users, and file a ticket with the NPR DS Help Desk.
+For any issues with Core Publisher, you should start with the [NPR Digital Services Help Center](http://digitalservices.npr.org/support). There you can explore the Knowledge Base, view training videos, find and share solutions with other CP users, and file a ticket as needed with the **NPR DS Help Desk**.
