@@ -24,6 +24,7 @@ Coming soon, Core Publisher will also be able to push content into the PMP. This
 
 * NPR DS has a [downloadable PDF guide](http://mediad.publicbroadcasting.net/p/newnprdsblog/files/201504/how_to_pull_content_from_the_pmp_into_core_publisher_march_2015.pdf) describing the steps needed to set up your Core Publisher site for pulling content from the PMP.
 * [The Core Publisher Knowledge Base](http://digitalservices.npr.org/support/knowledgebase/corepublisher) has extensive guides to getting started and using Core Publisher.
+* If you run into any issues with Core Publisher or errors pulling or pushing PMP content, please contact the [NPR Digital Services Support Center](https://nprsupport.desk.com/).
 
 ####About this guide
 
