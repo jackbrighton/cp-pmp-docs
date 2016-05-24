@@ -1,4 +1,4 @@
-#A Brief Guide to Pulling PMP Stories into Core Publisher
+#A Brief Guide to Using the Public Media Platform with Core Publisher
 
 ![image of PMP pulling content from sources]
 (/img/infographic-push_pull-forweb-858px.png)
